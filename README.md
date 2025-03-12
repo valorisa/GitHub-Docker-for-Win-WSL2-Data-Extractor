@@ -35,7 +35,7 @@ A personal GitHub token for API authentication.
 
 ## Usage
 Place the raw data in the ```data/``` folder.
-Run the Python scripts from the ```scripts/``` folder
+Run the Python scripts from the ```scripts/``` folder.
 
 ```bash
 python scripts/generate_markdown_table.py
