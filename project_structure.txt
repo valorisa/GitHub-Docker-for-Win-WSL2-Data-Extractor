@@ -34,4 +34,4 @@ Scripts Directory
 
 Summary
 -------
-- 4 directories
+- 4 directories, 16 files
