@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Structure
 =================
 
@@ -36,3 +37,6 @@ Summary
 -------
 - 4 directories
 - 16 files
+=======
+.                                             ├── LICENSE                                   ├── README.md                                 ├── data                                      │   ├── fixed_formatted_result.txt            │   ├── formatted_result.txt                  │   └── result.txt                            ├── installation_guide.md                     ├── knowledge_base.md                         ├── output                                    │   └── issues.md                             ├── project_structure.txt                     ├── requirements.txt                          ├── scripts                                   │   ├── analyze_word_frequencies.py           │   ├── convert_to_csv.py                     │   ├── generate_markdown_table.py            │   ├── generate_summary.py                   │   └── markdown_table.py                     └── test.log                                                                                4 directories, 16 files
+>>>>>>> 18b6fcac5fcba9be94ac2a7cbf3350ec978d6c20
