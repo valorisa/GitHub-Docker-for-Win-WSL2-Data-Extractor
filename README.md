@@ -52,7 +52,7 @@ Check the results in the ```output/``` folder.
 ```generate_summary.py``` : Generates an automatic summary of descriptions.
 
 ## Contributions
-Contributions are welcome! Feel free to submit pull requests or report issues.
+Contributions are welcome ! Feel free to submit pull requests or report issues.
 
 ## License
 This project is distributed under the MIT License. See the LICENSE file for more details.
