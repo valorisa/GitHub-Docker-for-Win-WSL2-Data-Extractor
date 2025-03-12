@@ -1,16 +1,38 @@
-.
-├── data
-│   ├── fixed_formatted_result.txt
-│   ├── formatted_result.txt
-│   └── result.txt
-├── output
-│   └── issues.md
-├── project_structure.txt
-└── scripts
-    ├── analyze_word_frequencies.py
-    ├── convert_to_csv.py
-    ├── generate_markdown_table.py
-    ├── generate_summary.py
-    └── markdown_table.py
+Project Structure
+=================
 
-3 directories, 10 files
+Root Directory
+--------------
+├── LICENSE
+├── README.md
+├── installation_guide.md
+├── knowledge_base.md
+├── project_structure.txt
+├── requirements.txt
+├── test.log
+
+Data Directory
+--------------
+├── data/
+│   ├── fixed_formatted_result.txt
+│   ├── formatted_result.txt
+│   └── result.txt
+
+Output Directory
+----------------
+├── output/
+│   └── issues.md
+
+Scripts Directory
+-----------------
+├── scripts/
+│   ├── analyze_word_frequencies.py
+│   ├── convert_to_csv.py
+│   ├── generate_markdown_table.py
+│   ├── generate_summary.py
+│   └── markdown_table.py
+
+Summary
+-------
+- 4 directories
+- 16 files
