@@ -30,7 +30,7 @@ GitHub-Docker-for-Win-WSL2-Data-Extractor/
 
 ## Prerequisites
 Python 3.12.x and
-Python libraries: ```requests, pandas, transformers```.
+Python libraries: ```requests```, ```pandas```, ```transformers```.
 A personal GitHub token for API authentication.
 
 ## Usage
