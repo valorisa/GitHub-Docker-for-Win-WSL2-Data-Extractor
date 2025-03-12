@@ -1,6 +1,6 @@
 # GitHub-Docker-for-Win-WSL2-Data-Extractor
 
-This project aims to extract, analyze, and synthesize GitHub issues related to the [docker/for-win](https://github.com/docker/for-win) repository with the label `area/WSL2`.
+This project aims to extract, analyze, and synthesize GitHub issues related to the [docker/for-win](https://github.com/docker/for-win) repository with the label `area/WSL2`, synthesize data from GitHub issues associated with the docker/for-win repository, focusing specifically on issues related to WSL2 (Windows Subsystem for Linux 2) . This is an initiative to better understand recurring errors, problematic configurations and the needs of Docker Desktop users on Windows.
 
 ## Objectives
 - Extract GitHub issues using the GitHub REST API.
@@ -26,12 +26,13 @@ GitHub-Docker-for-Win-WSL2-Data-Extractor/
 │   └── generate_summary.py
 ├── README.md           # Project documentation
 └── .gitignore          # List of files/folders to ignore
-
+```
 
 ## Prerequisites
 Python 3.x
-Python libraries: requests, pandas, transformers
+Python libraries: ```requests, pandas, transformers```
 A personal GitHub token for API authentication.
+
 ## Usage
 Place the raw data in the data/ folder.
 Run the Python scripts from the scripts/ folder
@@ -45,10 +46,10 @@ python scripts/generate_summary.py
 Check the results in the output/ folder.
 
 ## Available Scripts
-generate_markdown_table.py : Generates a Markdown table from JSON data.
-convert_to_csv.py : Converts JSON data into a CSV file.
-analyze_word_frequencies.py : Counts the most frequent words in titles.
-generate_summary.py : Generates an automatic summary of descriptions.
+```generate_markdown_table.py``` : Generates a Markdown table from JSON data.
+```convert_to_csv.py``` : Converts JSON data into a CSV file.
+```analyze_word_frequencies.py``` : Counts the most frequent words in titles.
+```generate_summary.py``` : Generates an automatic summary of descriptions.
 
 ## Contributions
 Contributions are welcome! Feel free to submit pull requests or report issues.
