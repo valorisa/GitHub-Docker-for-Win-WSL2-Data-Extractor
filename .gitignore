@@ -1,0 +1,23 @@
+# Ignorer les fichiers temporaires ou sensibles
+*.log
+*.tmp
+*.bak
+__pycache__/
+.vscode/
+.idea/
+
+# Ignorer les fichiers spécifiques
+data/*.json
+output/*.csv
+
+# Ignorer les fichiers générés par Docker
+.docker-desktop/
+docker-compose.override.yml
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration personnels
+.env
+.config/
