@@ -20,7 +20,7 @@ The following structure represents the organization of files and directories wit
 ├── LICENSE                  # Project license  
 ├── README.md                # Main project documentation  
 ├── installation_guide.md     # Installation guide  
-├── project_structure.txt     # Project structure details  
+├── project_structure.md     # Project structure details  
 ├── requirements.txt          # List of dependencies  
 ├── result.txt                # Raw result data  
 
