@@ -1,4 +1,4 @@
-.
+GitHub-Docker-for-Win-WSL2-Data-Extractor
 
 ├── LICENSE  
 ├── README.md  
@@ -20,3 +20,7 @@
     ├── generate_markdown_table.py  
     ├── generate_summary.py  
     └── markdown_table.py
+
+Summary
+-------
+- 4 directories, 14 files
